@@ -11,9 +11,10 @@ Authentication and Access Control with Spring Security in a Spring Boot applicat
 - [PgAdmin (PostgreSQL)](https://www.postgresql.org/)
 
 
+
 Project implemented for study purposes, following the instructions in this [video](https://www.youtube.com/watch?v=t6prPki7daU), with the following steps:
-- Basic Authentication
-- In-memory Authentication
+- Spring Security Basic Authentication with default configuration
+- Spring Security In-memory Authentication
 - Spring Security Authentication with JPA
 - Role-Based Access Control (RBAC)
 - Spring Security without the WebSecurityConfigurerAdapter
